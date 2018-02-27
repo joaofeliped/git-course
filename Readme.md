@@ -1,1 +1,1 @@
-Git Course 2ahauhauha
+Git Course
